@@ -12,8 +12,6 @@ description: |
   FreeCAD is multiplatfom, and reads and writes many open
   file formats such as STEP, IGES, STL and others.
   
-  Do _not_ complain to upstream about issues with this snap!
-
   Commands:
             freecad:  Run FreeCAD
         freecad.cmd:  Run FreeCAD command line interface
